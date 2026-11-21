@@ -31,3 +31,5 @@ npm-debug.log*
 
 # Docs that quote or name screenplay content: share privately with the submission
 docs/private/
+
+.vercel
